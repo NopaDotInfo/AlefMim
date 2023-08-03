@@ -2,6 +2,68 @@
     direction: rtl;
 }
 
-body{
-    height: 100vh;
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+
+.content {
+    margin: 50px 20px;
+    min-height: calc(100vh - 100px);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content div {
+    margin: 0 auto;
+}
+
+audio {
+    display: block;
+    margin: 30px auto;
+}
+
+img {
+    width: 600px;
+    margin: 20px 0;
+    border-radius: 20px; 
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #444;
+    height: 2px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image, .image :is(svg, image) {
+    width: 600px;
+    display: block;
+}
+
+.image-intro, .image-intro :is(svg, image) {
+    height: 336px;
+}
+
+.episode-1-image, .episode-1-image :is(svg, image) {
+    height: 133px;
+}
+
+.episode-2-image, .episode-2-image :is(svg, image) {
+    height: 82px;
+}
+
+
+.footer {
+    display: flex;
+}
+
+@media only screen and (max-width: 768px) {
+    .content {
+        width: 90vw;
+    }
 }
