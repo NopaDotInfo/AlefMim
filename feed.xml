@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>الف میم</title>
+    <googleplay:author>آریا، محمد</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Tehran, Iran</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>آریا، محمد</author>
+    <itunes:author>آریا، محمد</itunes:author>
+    <itunes:email>info@alefmim.ir</itunes:email>
+    <itunes:category text="Self-Improvement" />
+    <image>
+      <url>https://github.com/NopaDotInfo/AlefMim/blob/master/android-chrome-512x512.png</url>
+      <title>Alef Mim</title>
+      <link>https://alefmim.ir/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>محمد، آریا</itunes:name>
+      <itunes:email>info@alefmim.ir</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <copyright>Alef Mim 2023</copyright>
+    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <googleplay:image href="https://github.com/NopaDotInfo/AlefMim/blob/master/android-chrome-512x512.png" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Fri, 4 Aug 2023 13:00:00 GMT</pubDate>
+    <link>https://alefmim.ir/feed.xml</link>
+    <itunes:image href="https://github.com/NopaDotInfo/AlefMim/blob/master/android-chrome-512x512.png" />
+    <item>
+      <author>آریا، محمد</author>
+      <itunes:author>آریا، محمد</itunes:author>
+      <title>قسمت اول: بداهه‌ای برای شروع</title>
+      <pubDate>Fri, 4 Aug 2023 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Norbert Kozsir - @norbertkozsir
+https://twitter.com/norbertkozsir
+https://github.com/norbert515
+Rody Davis - @rodydavis
+https://twitter.com/rodydavis
+https://github.com/rodydavis
+https://youtube.com/rodydavis
+https://rodydavis.com
+Our podcast player: 
+https://alefmim.ir/
+        </description>
+    </item>
+  </channel>
+</rss>
