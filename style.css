@@ -45,7 +45,7 @@ hr {
     display: block;
 }
 
-.image-intro, .image-intro :is(svg, image) {
+.salam-image, .salam-image :is(svg, image) {
     height: 336px;
 }
 
@@ -62,8 +62,24 @@ hr {
     display: flex;
 }
 
-@media only screen and (max-width: 768px) {
-    .content {
-        width: 90vw;
+@media only screen and (max-width: 768px) {  
+    img, hr {
+        width: 300px;
+    }
+    
+    .image, .image :is(svg, image) {
+        width: 300px;
+    }
+    
+    .salam-image, .salam-image :is(svg, image) {
+        height: 168px;
+    }
+    
+    .episode-1-image, .episode-1-image :is(svg, image) {
+        height: 67px;
+    }
+    
+    .episode-2-image, .episode-2-image :is(svg, image) {
+        height: 41px;
     }
 }
