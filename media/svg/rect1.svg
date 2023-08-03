@@ -2,11 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="10 10 180.61932 180.61932"
+   width="198.21317mm"
+   height="198.37335mm"
+   viewBox="10 10 170.48156 120.63993"
    version="1.1"
    id="svg1"
+   sodipodi:docname="rect1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,23 +27,28 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(7.4878452,-80.481015)">
     <rect
-       style="fill:#000000;stroke-width:0.32323"
+       style="fill:#000000;stroke-width:0.322427"
        id="rect1"
-       width="170.61932"
+       width="169.77306"
        height="170.61932"
-       x="17.670658"
-       y="53.594212" />
-    <circle
+       x="3.2206528"
+       y="65.49131"
+       inkscape:export-filename="rect1.png"
+       inkscape:export-xdpi="88.732689"
+       inkscape:export-ydpi="88.732689" />
+    <ellipse
        id="path1"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
-       cx="2.7171586"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.263926"
+       cx="2.7161434"
        cy="117.38126"
-       r="0.072384581" />
+       rx="0.07202556"
+       ry="0.072384581" />
     <g
        id="g8"
-       transform="translate(13.626063,-5.5969042)">
+       transform="matrix(0.99504005,0,0,1,0.04169635,5.4504004)">
       <path
          style="fill:#ffffff;stroke-width:0.264583"
          id="path2"
@@ -58,7 +64,7 @@
     </g>
     <g
        id="g7"
-       transform="translate(-41.726914,-5.0605365)">
+       transform="matrix(0.99504005,0,0,1,-55.036733,5.9867681)">
       <path
          style="fill:#ffffff;stroke-width:0.264583"
          id="path5"
